@@ -1,5 +1,6 @@
 # Middleman Segment
 [![Dependency Status](https://gemnasium.com/badges/github.com/bnadlerjr/middleman-segment.svg)](https://gemnasium.com/github.com/bnadlerjr/middleman-segment)
+[![Build Status](https://travis-ci.org/bnadlerjr/middleman-segment.svg?branch=master)](https://travis-ci.org/bnadlerjr/middleman-segment)
 
 A [Middleman](https://middlemanapp.com/) extension to handle generating your Segment tracking code.
 
