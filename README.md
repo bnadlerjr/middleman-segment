@@ -1,4 +1,6 @@
 # Middleman Segment
+
+[![Gem Version](https://badge.fury.io/rb/middleman-segment.svg)](https://badge.fury.io/rb/middleman-segment)
 [![Dependency Status](https://gemnasium.com/badges/github.com/bnadlerjr/middleman-segment.svg)](https://gemnasium.com/github.com/bnadlerjr/middleman-segment)
 [![Build Status](https://travis-ci.org/bnadlerjr/middleman-segment.svg?branch=master)](https://travis-ci.org/bnadlerjr/middleman-segment)
 
