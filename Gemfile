@@ -1,15 +1,17 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
 
 gemspec
 
 group :development do
-  gem "rake", "~> 12.3.0"
-  gem "rdoc", "~> 6.0.1"
+  gem 'rake', '~> 12.3'
+  gem 'rdoc', '~> 6.3'
 end
 
 group :test do
-  gem "aruba", "~> 0.14.3"
-  gem "capybara", "~> 2.17.0"
-  gem "cucumber", "~> 3.1.0"
-  gem "rspec", "~> 3.7.0"
+  gem 'aruba', '~> 0.14'
+  gem 'capybara', '~> 2.17'
+  gem 'cucumber', '~> 3.1'
+  gem 'rspec', '~> 3.7'
 end
